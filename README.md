@@ -47,8 +47,8 @@ The project can be divided into three modules:
 - **FIFO (First-In-First-Out)**
 - **LRU (Least Recently Used)**
 - **Optimal (Belady’s Algorithm)**
-- **LFU (Least Frequently Used)**
-- **Clock Algorithm (Second Chance Algorithm)**
+- **LFU (Least Frequently Used)**  ----- optional
+- **Clock Algorithm (Second Chance Algorithm)** ----- optional
 
 ✅ Calculates:
 - Page faults
@@ -113,7 +113,7 @@ The project can be divided into three modules:
 
 ---
 
-## 6. Future Enhancements (Probably)
+## 6. Future Enhancements (Thinking not sure)
 - Implement **Adaptive Replacement Cache (ARC)**.
 - Add **multi-threading** for improved performance.
 - Provide **web-based deployment** for online access.
