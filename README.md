@@ -47,8 +47,6 @@ The project can be divided into three modules:
 - **FIFO (First-In-First-Out)**
 - **LRU (Least Recently Used)**
 - **Optimal (Belady’s Algorithm)**
-- **LFU (Least Frequently Used)**  ----- optional
-- **Clock Algorithm (Second Chance Algorithm)** ----- optional
 
 ✅ Calculates:
 - Page faults
@@ -72,7 +70,7 @@ The project can be divided into three modules:
 
 | Component            | Recommendation                  |
 |----------------------|--------------------------------|
-| **Programming Language** | Python (for simplicity), C++ (for performance) |
+| **Programming Language** | Python (for simplicity)|
 | **GUI Framework**       | Tkinter, PyQt, or Web-based (Flask/Django) |
 | **Visualization**       | Matplotlib, Seaborn for graphs |
 | **Simulation**         | Pandas (data handling), NumPy (calculations) |
@@ -129,3 +127,10 @@ The project can be divided into three modules:
 
 ## 8. License
 This project is licensed under the **MIT License** - see the LICENSE file for details.
+
+### 🔗 Connect with Me
+
+📧 **Email:** [adityarajic1101@gmail.com](mailto:adityarajic1101@gmail.com)  
+🔗 **LinkedIn:** [Click here](www.linkedin.com/in/aditya-raj35)  
+🌍 **GitHub:** [Visit here](https://github.com/Raj-3435)  
+
